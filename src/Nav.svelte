@@ -5,6 +5,7 @@
         ["./home", "home"],
         ["./about", "about"],
         ["./blog", "blog"],
+        ["./products", "products"],
     ];
 </script>
 <style>

@@ -1,19 +1,16 @@
 <script>
-    import data from "./blog.json";
-    const posts = data.posts;
     import { url } from "@sveltech/routify";
     export let slug;
-    export let title;
-    export let content;
+    import data from "./blog.json";
+    const posts = data.posts;
 </script>
 
-
-<h1>{title}</h1>
-<p>Blog article: {slug}</p>
-<p style="color:red;">{content}</p>
-
-<a href={$url(`../${slug}/delete`)}>Delete</a>
-{#each posts as i}
-
-<p> {i.id} for {slug}</p>
+{#each posts as post}
+    {#if (post.slug === slug)}
+        <h1>{post.title}</h1>
+        <img src="/{post.imagen}" alt="{post.title}">
+        <p>{@html post.content}</p>
+    {/if}
 {/each}
+
+<a href={$url(`${slug}/delete`)}>Delete</a>

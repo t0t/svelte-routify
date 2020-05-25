@@ -1,20 +1,20 @@
 {
-  "posts": [
+  "products": [
     {
       "id": 0,
-      "excerpt": "post 1",
-      "title": "Title post 1",
+      "slug": "product0",
+      "excerpt": "product 1",
+      "title": "Title product 1",
       "thumb": "img/th-img8.jpg",
-      "slug": "post1",
       "imagen": "img/img8.jpg",
       "description": "Arena negra del desierto y latex. 100cm ø 2019",
       "content": "<strong>Strong text</strong> derv erv erv <br>eve <em>Lo más importante en la vida es que lo más  sea lo más importante</em> werv e verv <a href='/' alt='alternatve text'>importante</a> verwv  werv werv <italic>vewr</italic>"
     },
     {
       "id": 1,
-      "slug": "post2",
-      "excerpt": "post 2",
-      "title": "Title post 2",
+      "slug": "product1",
+      "excerpt": "product 2",
+      "title": "Title product 2",
       "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis exercitationem rem aliquam voluptas! Laboriosam obcaecati tenetur quae animi? Nemo labore exercitationem totam cupiditate temporibus eaque accusamus sequi. Ullam, laborum. Deleniti.",
       "imagen": "img/img9.jpg",
       "thumb": "img/th-img9.jpg",
@@ -22,30 +22,30 @@
     },
     {
       "id": 2,
+      "slug": "product3",
       "excerpt": "prototipado-holistico",
       "title": "Prototipado Holístico",
       "thumb": "img/th-img10.jpg",
-      "slug": "post3",
       "imagen": "img/img10.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis exercitationem rem aliquam voluptas! Laboriosam obcaecati tenetur quae animi? Nemo labore exercitationem totam cupiditate temporibus eaque accusamus sequi. Ullam, laborum. Deleniti.",
       "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis exercitationem rem aliquam voluptas! Laboriosam obcaecati tenetur quae animi? Nemo labore exercitationem totam cupiditate temporibus eaque accusamus sequi. Ullam, laborum. Deleniti."
     },
     {
       "id": 3,
-      "excerpt": "Cuarto post excerpt wejc weroicje ",
-      "title": "Cuarto post",
+      "excerpt": "Cuarto product excerpt wejc weroicje ",
+      "title": "Cuarto product",
       "thumb": "img/th-img11.jpg",
-      "slug": "post4",
+      "slug": "product4",
       "imagen": "img/img11.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis exercitationem rem aliquam voluptas! Laboriosam obcaecati tenetur quae animi? Nemo labore exercitationem totam cupiditate temporibus eaque accusamus sequi. Ullam, laborum. Deleniti.",
       "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis exercitationem rem aliquam voluptas! Laboriosam obcaecati tenetur quae animi? Nemo labore exercitationem totam cupiditate temporibus eaque accusamus sequi. Ullam, laborum. Deleniti."
     },
     {
       "id": 4,
-      "excerpt": "Cuarto post excerpt wejc weroicje ",
-      "title": "Cuarto post",
+      "excerpt": "Cuarto product excerpt wejc weroicje ",
+      "title": "Cuarto product",
       "thumb": "img/th-img12.jpg",
-      "slug": "post5",
+      "slug": "product5",
       "imagen": "img/img12.jpg",
       "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis exercitationem rem aliquam voluptas! Laboriosam obcaecati tenetur quae animi? Nemo labore exercitationem totam cupiditate temporibus eaque accusamus sequi. Ullam, laborum. Deleniti.",
       "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis exercitationem rem aliquam voluptas! Laboriosam obcaecati tenetur quae animi? Nemo labore exercitationem totam cupiditate temporibus eaque accusamus sequi. Ullam, laborum. Deleniti."
